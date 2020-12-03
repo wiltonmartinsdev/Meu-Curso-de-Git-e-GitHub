@@ -1,2 +1,2 @@
 # Meu Curso de Git e GitHub
- Curso em Vídeo
+ Curso de Aprendizagem: Curso em Vídeo
